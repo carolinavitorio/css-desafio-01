@@ -16,7 +16,7 @@
     height: 605px;
     border-bottom: 1px solid #33a8db;
     background:
-        url("/assets/images/banner.png"),
+        url(/assets/images/banner.png),
         linear-gradient(180deg, rgba(0, 0, 0, 0.8), rgba(6, 59, 82, 0.8), rgba(0, 0, 0, 1));
 
     background-size: cover;
@@ -142,7 +142,7 @@ main {
 
 #transform-world {
     background: url(/assets/images/woman-code.png) center/cover no-repeat fixed;
-    height: 400px;
+    height: 600px;
     padding-top: -250px;
     border-bottom: 1px solid #33A8DB;
     border-top: 1px solid #33A8DB
@@ -152,7 +152,7 @@ main {
     text-align: left;
     width: 244px;
     height: 141px;
-    padding-top: 111px;
+    padding-top: 200px;
     margin-left: 198px;
     font-weight: 900;
     font-size: 40px;
